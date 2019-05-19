@@ -50,11 +50,14 @@ console.log("linkedin-redirect getCurrentMemberProfile error:" + req.query.code)
     linkedInAPI.getAccessToken(req.query.code, req.query.state)
     .then(response => {
       console.log("linkedin-redirect getAccessToken:" + response);
-      res.send(JSON.stringify(response));
+      linkedInAPI.getCurrentMemberProfile(['id', 'firstName', 'lastName'], response.access_token)
+        .then(response => {
+          console.log("linkedin-redirect getCurrentMemberProfile:" + response);
+          res.send(JSON.stringify(response));
+        })
     })
     .catch(err => {
       console.log("linkedin-redirect getAccessToken error:" + err);
-      done()
     });
 
 
