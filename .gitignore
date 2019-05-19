@@ -1,0 +1,28 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# vs code config
+.vscode
+
+#webstorm
+.idea/
+
+# any .task todo files
+**/*.tasks
+
+# .cache directories
+**/.cache
+
+.env
+data
+json/first-direct-28758468-40-47-60-92909c7bd8b10a710f59cb1171838cee.json
+json/hsbc-41212915-40-22-28-e23a53612461a83d163a9f7c1e3ef092.json
+json/pw-accounts.json

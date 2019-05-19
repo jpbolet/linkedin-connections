@@ -1,0 +1,21 @@
+include ./mixins.pug
+doctype html
+html
+  head
+    title= title
+    link(rel='stylesheet', href='/stylesheets/styles-fonts.ACSHASH41be9a62014a3cf3c9caf274c21e8607.css')
+    link(rel='stylesheet', href='/stylesheets/moneysupermarket_shop_clientlib_styles-base.ACSHASHa5e454be096f185b6bdc6e0354aede2a.css')
+    link(rel='stylesheet', href='/stylesheets/superhomepage.ACSHASH41f99b6ede2d18958ae8d93445d97045.css')
+  body
+    main
+      .app-container
+        nav
+          .page-header__navbar
+            img(src='./images/MSM_Small_size_logo-final.webp' width="99" height="40")
+            ul
+              li
+                a(href="/" header-links-section-component__title) Home
+              li
+                a(href="/authenticate" header-links-section-component__title) Login
+        #content.flex-container-component
+          block content

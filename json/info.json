@@ -1,0 +1,51 @@
+[
+  {
+    "emails": [
+      "jeanpierrebolet@hotmail.com"
+    ],
+    "phones": [
+      "075****4875"
+    ],
+    "_id": "5cd53d98fdecbd7009957617",
+    "update_timestamp": "2019-05-10T09:06:23.708Z",
+    "full_name": "Mr Jean P Bolet",
+    "addresses": [
+      {
+        "_id": "5cd53f0ffdecbd7009957c0e",
+        "address": "58 Swarthdale Haxby York",
+        "zip": "YO32 3NZ"
+      }
+    ],
+    "__v": 2
+  },
+  {
+    "emails": [
+      "phillip_whiteley@hotmail.com"
+    ],
+    "phones": [],
+    "_id": "5cd54aa3716df001674e15b3",
+    "update_timestamp": "2019-05-10T09:55:47.465Z",
+    "full_name": "P C Whiteley",
+    "addresses": [
+      {
+        "_id": "5cd54aa3716df001674e15b4"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "emails": [],
+    "phones": [],
+    "_id": "5cd54da5716df001674e28ab",
+    "update_timestamp": "2019-05-10T10:08:37.693Z",
+    "full_name": "Phillip Charles Whiteley Mrs Helen Victoria Whiteley",
+    "addresses": [
+      {
+        "_id": "5cd54da5716df001674e28ac",
+        "address": "4 Foss Avenue, Wetherby",
+        "zip": "LS22 7YL"
+      }
+    ],
+    "__v": 0
+  }
+]

@@ -1,0 +1,2934 @@
+[
+  {
+    "transaction_classification": [
+      "Personal Services",
+      "Advisory and Consulting"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd294",
+    "timestamp": "2019-05-10T00:00:00.000Z",
+    "description": "LEEDS CITY COUNCIL",
+    "transaction_type": "DEBIT",
+    "transaction_category": "UNKNOWN",
+    "merchant_name": "LEEDS CITY COUNCIL",
+    "amount": -173,
+    "currency": "GBP",
+    "transaction_id": "558deb7890645b50c6250cca5c8b4e54",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd295"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd296",
+    "timestamp": "2019-05-08T00:00:00.000Z",
+    "description": "HLAM REGULAR SAVIN",
+    "transaction_type": "DEBIT",
+    "transaction_category": "UNKNOWN",
+    "amount": -70,
+    "currency": "GBP",
+    "transaction_id": "d2bff88e0ae77ed175c7a0a0ddc81cf6",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd297"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd29e",
+    "timestamp": "2019-04-29T00:00:00.000Z",
+    "description": "849597523801-CHB",
+    "transaction_type": "CREDIT",
+    "transaction_category": "UNKNOWN",
+    "amount": 137.6,
+    "currency": "GBP",
+    "transaction_id": "eda1941340ac5e7abfb6c72c9d9c018a",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd29f"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd2a0",
+    "timestamp": "2019-04-16T00:00:00.000Z",
+    "description": "HSBC BNK VSA454638 454638******5287",
+    "transaction_type": "DEBIT",
+    "transaction_category": "UNKNOWN",
+    "amount": -14.99,
+    "currency": "GBP",
+    "transaction_id": "6673b9b70ee54af78203227b5cf793de",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2a1"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Personal Services",
+      "Financial Services"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd2a8",
+    "timestamp": "2019-04-03T00:00:00.000Z",
+    "description": "PAYPAL PAYMENT",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "PAYPAL",
+    "amount": -4.99,
+    "currency": "GBP",
+    "transaction_id": "739aa0a7d4f7ccaf93cde4318db629e2",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2a9",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Personal Services",
+      "Financial Services"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd2aa",
+    "timestamp": "2019-04-01T00:00:00.000Z",
+    "description": "HALIFAX",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "HALIFAX",
+    "amount": -892.61,
+    "currency": "GBP",
+    "transaction_id": "94e7a45afbc99bb2c28f9fc758f8f5b4",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2ab",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Personal Services",
+      "Financial Services"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd29c",
+    "timestamp": "2019-05-01T00:00:00.000Z",
+    "description": "HALIFAX",
+    "transaction_type": "DEBIT",
+    "transaction_category": "UNKNOWN",
+    "merchant_name": "HALIFAX",
+    "amount": -892.61,
+    "currency": "GBP",
+    "transaction_id": "42827d63abba6daef0ab1bd33795d54c",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd29d"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd2b2",
+    "timestamp": "2019-05-01T00:00:00.000Z",
+    "description": "DVLA-YY17XHW",
+    "transaction_type": "DEBIT",
+    "transaction_category": "UNKNOWN",
+    "amount": -12.25,
+    "currency": "GBP",
+    "transaction_id": "a489deb9c598fa8c13b0061a5d2428bf",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2b3"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Personal Services",
+      "Financial Services"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd29a",
+    "timestamp": "2019-05-03T00:00:00.000Z",
+    "description": "PAYPAL PAYMENT",
+    "transaction_type": "DEBIT",
+    "transaction_category": "UNKNOWN",
+    "merchant_name": "PAYPAL",
+    "amount": -9,
+    "currency": "GBP",
+    "transaction_id": "b04ccdefdb9eb499c0badb45fea31eb6",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd29b"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd298",
+    "timestamp": "2019-05-03T00:00:00.000Z",
+    "description": "SANTANDER ZERO MCD 528689******0766",
+    "transaction_type": "DEBIT",
+    "transaction_category": "UNKNOWN",
+    "amount": -500,
+    "currency": "GBP",
+    "transaction_id": "443ebbf9926859b359d1861724f99c3d",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd299"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd2a6",
+    "timestamp": "2019-04-05T00:00:00.000Z",
+    "description": "THE PRODUCT APRIL SAL 212.16 E",
+    "transaction_type": "CREDIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": 914.77,
+    "currency": "GBP",
+    "transaction_id": "48131d84ff5c2aa18ab11b4a2f93d45d",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2a7",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd2bc",
+    "timestamp": "2019-04-04T00:00:00.000Z",
+    "description": "CONCUR TECHNOLOGIE",
+    "transaction_type": "CREDIT",
+    "transaction_category": "CREDIT",
+    "amount": 60.25,
+    "currency": "GBP",
+    "transaction_id": "64a73eed110d7c4d246279fdbdcb2bdf",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2bd",
+      "provider_transaction_category": "CR"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Bills and Utilities",
+      "Internet"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd2a2",
+    "timestamp": "2019-04-12T00:00:00.000Z",
+    "description": "VIRGIN MEDIA PYMTS",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "VIRGIN MEDIA",
+    "amount": -49,
+    "currency": "GBP",
+    "transaction_id": "704eb270d660942c5e12a96bbd2abcd7",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2a3",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd2a4",
+    "timestamp": "2019-04-08T00:00:00.000Z",
+    "description": "THE PRODUCT DIV",
+    "transaction_type": "CREDIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": 6000,
+    "currency": "GBP",
+    "transaction_id": "a63d1f8b3e46de45983e3817f1b39fed",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2a5",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd2ae",
+    "timestamp": "2019-05-03T00:00:00.000Z",
+    "description": "404760 28758468 INTERNAL TRANSFER",
+    "transaction_type": "DEBIT",
+    "transaction_category": "UNKNOWN",
+    "amount": -1313,
+    "currency": "GBP",
+    "transaction_id": "03addfcec34ce8cb42a6d2b281f115b5",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2af"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Personal Services",
+      "Financial Services"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd2c6",
+    "timestamp": "2019-05-01T00:00:00.000Z",
+    "description": "PAYPAL PAYMENT",
+    "transaction_type": "DEBIT",
+    "transaction_category": "UNKNOWN",
+    "merchant_name": "PAYPAL",
+    "amount": -5.99,
+    "currency": "GBP",
+    "transaction_id": "37fb9ea5e02f4a3b29cdba40d4be08f4",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2c7"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Bills and Utilities",
+      "Utilities"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd2b0",
+    "timestamp": "2019-05-01T00:00:00.000Z",
+    "description": "YORKSHIRE WATER",
+    "transaction_type": "DEBIT",
+    "transaction_category": "UNKNOWN",
+    "merchant_name": "YORKSHIRE WATER",
+    "amount": -40,
+    "currency": "GBP",
+    "transaction_id": "65376ed98dd920dff749f8ab6f4fb01a",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2b1"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd2ac",
+    "timestamp": "2019-05-08T00:00:00.000Z",
+    "description": "HLAM REGULAR SAVIN",
+    "transaction_type": "DEBIT",
+    "transaction_category": "UNKNOWN",
+    "amount": -70,
+    "currency": "GBP",
+    "transaction_id": "426c7c82999341e0665e1c460a6d13dd",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2ad"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd2d0",
+    "timestamp": "2019-04-05T00:00:00.000Z",
+    "description": "404760 28758468 INTERNAL TRANSFER",
+    "transaction_type": "DEBIT",
+    "transaction_category": "TRANSFER",
+    "amount": -600,
+    "currency": "GBP",
+    "transaction_id": "dc50e0e61b0ff2085cf4c76125569e61",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2d1",
+      "provider_transaction_category": "TFR"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Personal Services",
+      "Advisory and Consulting"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd2b8",
+    "timestamp": "2019-04-10T00:00:00.000Z",
+    "description": "LEEDS CITY COUNCIL",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "LEEDS CITY COUNCIL",
+    "amount": -175.06,
+    "currency": "GBP",
+    "transaction_id": "42f76329dce2ab90d8e57db2df8e000a",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2b9",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd2ba",
+    "timestamp": "2019-04-08T00:00:00.000Z",
+    "description": "HLAM REGULAR SAVIN",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "amount": -70,
+    "currency": "GBP",
+    "transaction_id": "b2b6963db91f2f1e6f788c15ce388439",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2bb",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Gifts & Donations",
+      "Charity"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd2b4",
+    "timestamp": "2019-04-24T00:00:00.000Z",
+    "description": "MACMILLAN CANCER S",
+    "transaction_type": "CREDIT",
+    "transaction_category": "UNKNOWN",
+    "merchant_name": "MACMILLAN CANCER SUPPORT",
+    "amount": 1539.47,
+    "currency": "GBP",
+    "transaction_id": "021162b2645c0039b65bdacb5c30ec2e",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2b5"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd2b6",
+    "timestamp": "2019-04-16T00:00:00.000Z",
+    "description": "404760 28758468 INTERNAL TRANSFER",
+    "transaction_type": "DEBIT",
+    "transaction_category": "UNKNOWN",
+    "amount": -1000,
+    "currency": "GBP",
+    "transaction_id": "e78716ccad01de30c8706cbc15c6ae06",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2b7"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd2c2",
+    "timestamp": "2019-05-07T00:00:00.000Z",
+    "description": "404760 28758468 INTERNAL TRANSFER",
+    "transaction_type": "CREDIT",
+    "transaction_category": "UNKNOWN",
+    "amount": 200,
+    "currency": "GBP",
+    "transaction_id": "80d1753c9d0c793b93ada2df9a07ff6a",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2c3"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Bills and Utilities",
+      "Television"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd2da",
+    "timestamp": "2019-05-01T00:00:00.000Z",
+    "description": "TV LICENCE MBP",
+    "transaction_type": "DEBIT",
+    "transaction_category": "UNKNOWN",
+    "merchant_name": "TV LICENCE MBP",
+    "amount": -12.83,
+    "currency": "GBP",
+    "transaction_id": "936391638c6808aa9bc9ff26ff571a3f",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2db"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd2c4",
+    "timestamp": "2019-05-03T00:00:00.000Z",
+    "description": "THE PRODUCT EXPENSES PAYMENT",
+    "transaction_type": "CREDIT",
+    "transaction_category": "UNKNOWN",
+    "amount": 595.58,
+    "currency": "GBP",
+    "transaction_id": "a6ef1e8128cd0e776f60d752ef86893d",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2c5"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd2cc",
+    "timestamp": "2019-04-16T00:00:00.000Z",
+    "description": "THE PRODUCT DIV",
+    "transaction_type": "CREDIT",
+    "transaction_category": "UNKNOWN",
+    "amount": 2000,
+    "currency": "GBP",
+    "transaction_id": "c9198fd8429a629a9e313ea02a62be13",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2cd"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd2c0",
+    "timestamp": "2019-04-01T00:00:00.000Z",
+    "description": "DVLA-YY17XHW",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "amount": -12.25,
+    "currency": "GBP",
+    "transaction_id": "3737efd023c40a15691ecf7a4f47be07",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2c1",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Shopping",
+      "Pets"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd2be",
+    "timestamp": "2019-04-03T00:00:00.000Z",
+    "description": "M AND S PET INS",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "M AND S",
+    "amount": -39.57,
+    "currency": "GBP",
+    "transaction_id": "219e82c4e31206881fb5ccedf5d97aba",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2bf",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd2d6",
+    "timestamp": "2019-05-07T00:00:00.000Z",
+    "description": "TESCO CLUB 518652 518652******4699",
+    "transaction_type": "DEBIT",
+    "transaction_category": "UNKNOWN",
+    "amount": -314.33,
+    "currency": "GBP",
+    "transaction_id": "c06c23176610fd524964d9342d8c236a",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2d7"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd2ce",
+    "timestamp": "2019-04-08T00:00:00.000Z",
+    "description": "INSPIRED AUTOMOTIV PHIL XC60",
+    "transaction_type": "DEBIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": -320,
+    "currency": "GBP",
+    "transaction_id": "4c44645a17b113314a8149c7beccf187",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2cf",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd2e4",
+    "timestamp": "2019-04-05T00:00:00.000Z",
+    "description": "HSBC BNK VSA454638 454638******5287",
+    "transaction_type": "DEBIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": -1283.4,
+    "currency": "GBP",
+    "transaction_id": "19d9919c9731640bcb76413dfd6f870b",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2e5",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd2e0",
+    "timestamp": "2019-04-14T00:00:00.000Z",
+    "description": "404760 28758468 INTERNAL TRANSFER",
+    "transaction_type": "DEBIT",
+    "transaction_category": "UNKNOWN",
+    "amount": -255,
+    "currency": "GBP",
+    "transaction_id": "e575498479ff69ad4335a7221c12673c",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2e1"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Fees & Charges",
+      "Bank Fee"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd2ca",
+    "timestamp": "2019-04-23T00:00:00.000Z",
+    "description": "TESCO BANK",
+    "transaction_type": "DEBIT",
+    "transaction_category": "UNKNOWN",
+    "merchant_name": "TESCO BANK",
+    "amount": -25,
+    "currency": "GBP",
+    "transaction_id": "b882bfd70931e6eecd83ad9fc4928687",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2cb"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Pensions and insurances",
+      "Life insurance"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd2c8",
+    "timestamp": "2019-05-01T00:00:00.000Z",
+    "description": "AVIVA LIFE",
+    "transaction_type": "DEBIT",
+    "transaction_category": "UNKNOWN",
+    "merchant_name": "AVIVA",
+    "amount": -117.13,
+    "currency": "GBP",
+    "transaction_id": "25d01045d82cbc3be58346b5c65012f0",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2c9"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd2ea",
+    "timestamp": "2019-05-03T00:00:00.000Z",
+    "description": "404760 28758468 INTERNAL TRANSFER",
+    "transaction_type": "CREDIT",
+    "transaction_category": "UNKNOWN",
+    "amount": 300,
+    "currency": "GBP",
+    "transaction_id": "79b289ed708a7b2d862ac9e9fb3aefdb",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2eb"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Shopping",
+      "Pets"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd2ee",
+    "timestamp": "2019-05-03T00:00:00.000Z",
+    "description": "M AND S PET INS",
+    "transaction_type": "DEBIT",
+    "transaction_category": "UNKNOWN",
+    "merchant_name": "M AND S",
+    "amount": -39.57,
+    "currency": "GBP",
+    "transaction_id": "862c66342a1a7ba530cb50d34b0383d8",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2ef"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd2d8",
+    "timestamp": "2019-05-03T00:00:00.000Z",
+    "description": "THE PRODUCT MAY SAL",
+    "transaction_type": "CREDIT",
+    "transaction_category": "UNKNOWN",
+    "amount": 718,
+    "currency": "GBP",
+    "transaction_id": "86e3918ec050e8471ee3f6e3a96896c9",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2d9"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd2f4",
+    "timestamp": "2019-04-16T00:00:00.000Z",
+    "description": "SANTANDER ZERO MCD 528689******0766",
+    "transaction_type": "DEBIT",
+    "transaction_category": "UNKNOWN",
+    "amount": -67.09,
+    "currency": "GBP",
+    "transaction_id": "0c5136083b04752b7abad977a3caae71",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2f5"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd2d2",
+    "timestamp": "2019-04-04T00:00:00.000Z",
+    "description": "MANDS PET INSURANCE",
+    "transaction_type": "CREDIT",
+    "transaction_category": "CREDIT",
+    "amount": 527.99,
+    "currency": "GBP",
+    "transaction_id": "65d4d8677c1d678e67d307de18bceb13",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2d3",
+      "provider_transaction_category": "CR"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Bills and Utilities",
+      "Television"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd2fe",
+    "timestamp": "2019-04-01T00:00:00.000Z",
+    "description": "TV LICENCE MBP",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "TV LICENCE MBP",
+    "amount": -12.83,
+    "currency": "GBP",
+    "transaction_id": "d77c1d113f0745dba88e8bb5a931aeed",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2ff",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Bills and Utilities",
+      "Utilities"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd2d4",
+    "timestamp": "2019-04-01T00:00:00.000Z",
+    "description": "YORKSHIRE WATER",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "YORKSHIRE WATER",
+    "amount": -40,
+    "currency": "GBP",
+    "transaction_id": "9c47460f699a16f5d5b2c760f91c4f73",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2d5",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd2f8",
+    "timestamp": "2019-04-08T00:00:00.000Z",
+    "description": "HLAM REGULAR SAVIN",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "amount": -70,
+    "currency": "GBP",
+    "transaction_id": "089c6a1d95178d81c7db4a4bab9ee68a",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2f9",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd2e2",
+    "timestamp": "2019-04-08T00:00:00.000Z",
+    "description": "WHITELEY PANDH TO SAVINGS",
+    "transaction_type": "DEBIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": -5600,
+    "currency": "GBP",
+    "transaction_id": "94b4803e0b4e33dea1ca16095293aa68",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2e3",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Bills and Utilities",
+      "Utilities"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd2dc",
+    "timestamp": "2019-05-01T00:00:00.000Z",
+    "description": "OCTOPUS ENERGY",
+    "transaction_type": "DEBIT",
+    "transaction_category": "UNKNOWN",
+    "merchant_name": "OCTOPUS ENERGY",
+    "amount": -115.94,
+    "currency": "GBP",
+    "transaction_id": "e3ec51e7d4a122c31f142e91605e2e9f",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2dd"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Personal Services",
+      "Financial Services"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd2de",
+    "timestamp": "2019-04-23T00:00:00.000Z",
+    "description": "PAYPAL PAYMENT",
+    "transaction_type": "DEBIT",
+    "transaction_category": "UNKNOWN",
+    "merchant_name": "PAYPAL",
+    "amount": -14.99,
+    "currency": "GBP",
+    "transaction_id": "8dd26ba9c24545d63c6a215f546a019b",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2df"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Personal Services",
+      "Financial Services"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd2e6",
+    "timestamp": "2019-04-03T00:00:00.000Z",
+    "description": "PAYPAL PAYMENT",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "PAYPAL",
+    "amount": -5.49,
+    "currency": "GBP",
+    "transaction_id": "88b444ccafeb8b753326fa3c62fe31d5",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2e7",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd2ec",
+    "timestamp": "2019-05-03T00:00:00.000Z",
+    "description": "HSBC BNK VSA454638 454638******5287",
+    "transaction_type": "DEBIT",
+    "transaction_category": "UNKNOWN",
+    "amount": -228.18,
+    "currency": "GBP",
+    "transaction_id": "421d810bd1fc0a773f981ff268ad63fd",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2ed"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd2f0",
+    "timestamp": "2019-05-01T00:00:00.000Z",
+    "description": "DVLA-YS65MZX",
+    "transaction_type": "DEBIT",
+    "transaction_category": "UNKNOWN",
+    "amount": -13.56,
+    "currency": "GBP",
+    "transaction_id": "113cc7cc9f8cde1e31ecd185089720a6",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2f1"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Personal Services",
+      "Financial Services"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd2e8",
+    "timestamp": "2019-04-01T00:00:00.000Z",
+    "description": "PAYPAL PAYMENT",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "PAYPAL",
+    "amount": -5.99,
+    "currency": "GBP",
+    "transaction_id": "4e831a2f2c5754d5070b1ccecae35e2e",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2e9",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd2fa",
+    "timestamp": "2019-04-04T00:00:00.000Z",
+    "description": "PIP 4 FOSS",
+    "transaction_type": "DEBIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": -45,
+    "currency": "GBP",
+    "transaction_id": "7d94af45e4851e6cc63a79f903004e87",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2fb",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd2f6",
+    "timestamp": "2019-04-11T00:00:00.000Z",
+    "description": "DVLA-YS65MZX FIRST PAYMENT",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "amount": -27.15,
+    "currency": "GBP",
+    "transaction_id": "a1f3590b9b586c51a649f9b4e143722c",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2f7",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd2f2",
+    "timestamp": "2019-04-25T00:00:00.000Z",
+    "description": "404760 28758468 INTERNAL TRANSFER",
+    "transaction_type": "DEBIT",
+    "transaction_category": "UNKNOWN",
+    "amount": -700,
+    "currency": "GBP",
+    "transaction_id": "c569fc7aabd8834901e42e9dcf28cad6",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2f3"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Personal Services",
+      "Financial Services"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd2fc",
+    "timestamp": "2019-04-03T00:00:00.000Z",
+    "description": "PAYPAL PAYMENT",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "PAYPAL",
+    "amount": -3.24,
+    "currency": "GBP",
+    "transaction_id": "2ed5c8004a72f2b41f2d3abfe101998b",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd2fd",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd300",
+    "timestamp": "2019-03-28T00:00:00.000Z",
+    "description": "404760 28758468 INTERNAL TRANSFER",
+    "transaction_type": "DEBIT",
+    "transaction_category": "TRANSFER",
+    "amount": -20200,
+    "currency": "GBP",
+    "transaction_id": "d13db0f70378b1f5595a225fa6b2e392",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd301",
+      "provider_transaction_category": "TFR"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Auto & Transport",
+      "Auto Insurance"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd304",
+    "timestamp": "2019-03-22T00:00:00.000Z",
+    "description": "ADMIRAL INSURANCE",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "ADMIRAL INSURANCE",
+    "amount": -34.34,
+    "currency": "GBP",
+    "transaction_id": "f607ba64538282958266458bd0d97e2d",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd305",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Personal Services",
+      "Financial Services"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd302",
+    "timestamp": "2019-03-25T00:00:00.000Z",
+    "description": "PAYPAL PAYMENT",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "PAYPAL",
+    "amount": -5.45,
+    "currency": "GBP",
+    "transaction_id": "19c1f102d669f367c2fb3f0d819d3620",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd303",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd306",
+    "timestamp": "2019-03-13T00:00:00.000Z",
+    "description": "PIP 4 FOSS",
+    "transaction_type": "DEBIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": -45,
+    "currency": "GBP",
+    "transaction_id": "1b6efe61c83adda75a9a6a4944414e62",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd307",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd308",
+    "timestamp": "2019-03-09T00:00:00.000Z",
+    "description": "THE PRODUCT LOAN",
+    "transaction_type": "CREDIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": 6000,
+    "currency": "GBP",
+    "transaction_id": "09379dbbf9d840ebba56b2bc496a038a",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd309",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd30a",
+    "timestamp": "2019-03-07T00:00:00.000Z",
+    "description": "HLAM REGULAR SAVIN",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "amount": -70,
+    "currency": "GBP",
+    "transaction_id": "56b0f5b2c51b9a464587d9cc15a9538f",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd30b",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd310",
+    "timestamp": "2019-02-28T00:00:00.000Z",
+    "description": "PIP 4 FOSS",
+    "transaction_type": "DEBIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": -45,
+    "currency": "GBP",
+    "transaction_id": "d3462e6518666b213563b64c32a059dd",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd311",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd312",
+    "timestamp": "2019-02-23T00:00:00.000Z",
+    "description": "THE PRODUCT FEB DIV",
+    "transaction_type": "CREDIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": 24.5,
+    "currency": "GBP",
+    "transaction_id": "d0578470eabe2b9eaf4980ca454e3dc8",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd313",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Shopping",
+      "Pets"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd30c",
+    "timestamp": "2019-03-04T00:00:00.000Z",
+    "description": "M AND S PET INS",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "M AND S",
+    "amount": -39.57,
+    "currency": "GBP",
+    "transaction_id": "908fee774b11b7e20affdc68236206c0",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd30d",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd30e",
+    "timestamp": "2019-03-01T00:00:00.000Z",
+    "description": "DVLA-YY17XHW",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "amount": -12.25,
+    "currency": "GBP",
+    "transaction_id": "36e77956601afac55d6b462a05e724fe",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd30f",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd314",
+    "timestamp": "2019-02-21T00:00:00.000Z",
+    "description": "PIP 4 FOSS",
+    "transaction_type": "DEBIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": -45,
+    "currency": "GBP",
+    "transaction_id": "e0b388296daf4a7d27b9c4f9259f047f",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd315",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd316",
+    "timestamp": "2019-02-14T00:00:00.000Z",
+    "description": "PIP 4 FOSS",
+    "transaction_type": "DEBIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": -45,
+    "currency": "GBP",
+    "transaction_id": "b830c2cfeef5fecc1e53c41f978a233c",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd317",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Bills and Utilities",
+      "Internet"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd318",
+    "timestamp": "2019-02-12T00:00:00.000Z",
+    "description": "VIRGIN MEDIA PYMTS",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "VIRGIN MEDIA",
+    "amount": -49,
+    "currency": "GBP",
+    "transaction_id": "281af440b7f4fc60a8b6ee0a89d73a30",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd319",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd31c",
+    "timestamp": "2019-02-05T00:00:00.000Z",
+    "description": "404760 28758468 INTERNAL TRANSFER",
+    "transaction_type": "DEBIT",
+    "transaction_category": "TRANSFER",
+    "amount": -200,
+    "currency": "GBP",
+    "transaction_id": "6ebdfce6135ef1e36f1c2ac71d7732f7",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd31d",
+      "provider_transaction_category": "TFR"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd322",
+    "timestamp": "2019-01-28T00:00:00.000Z",
+    "description": "HSBC BNK VSA454638 454638******5287",
+    "transaction_type": "DEBIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": -22.26,
+    "currency": "GBP",
+    "transaction_id": "919f771a11ade883f80e9cf553d3fc0a",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd323",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd31e",
+    "timestamp": "2019-02-02T00:00:00.000Z",
+    "description": "THE PRODUCT FEB SAL",
+    "transaction_type": "CREDIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": 702,
+    "currency": "GBP",
+    "transaction_id": "f46fe51b7ddb62c4d2a2ed93d6bde11f",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd31f",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd320",
+    "timestamp": "2019-02-01T00:00:00.000Z",
+    "description": "DVLA-YY17XHW",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "amount": -12.25,
+    "currency": "GBP",
+    "transaction_id": "5dfc6e6e013bf4b1dbdddeaaad07fe86",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd321",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd326",
+    "timestamp": "2019-01-18T00:00:00.000Z",
+    "description": "THE PRODUCT JAN EX2",
+    "transaction_type": "CREDIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": 83.25,
+    "currency": "GBP",
+    "transaction_id": "7f18a1de199079d3dedde6f35628718e",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd327",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd31a",
+    "timestamp": "2019-02-07T00:00:00.000Z",
+    "description": "HLAM REGULAR SAVIN",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "amount": -70,
+    "currency": "GBP",
+    "transaction_id": "2a2c84ee96b5398bb3f81b8c977bc10c",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd31b",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Bills and Utilities",
+      "Internet"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd328",
+    "timestamp": "2019-01-14T00:00:00.000Z",
+    "description": "VIRGIN MEDIA PYMTS",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "VIRGIN MEDIA",
+    "amount": -49.19,
+    "currency": "GBP",
+    "transaction_id": "0abab4347ed7576c83365736b8466aae",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd329",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Personal Services",
+      "Financial Services"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd330",
+    "timestamp": "2019-03-20T00:00:00.000Z",
+    "description": "PAYPAL PAYMENT",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "PAYPAL",
+    "amount": -14.99,
+    "currency": "GBP",
+    "transaction_id": "2e436f12382e35d885aeb065b12dc8f1",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd331",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd32a",
+    "timestamp": "2019-03-28T00:00:00.000Z",
+    "description": "PIP 4 FOSS",
+    "transaction_type": "DEBIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": -45,
+    "currency": "GBP",
+    "transaction_id": "b1b00ef472e5d08116e4abdeb9cab2c6",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd32b",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Auto & Transport",
+      "Auto Insurance"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd32c",
+    "timestamp": "2019-03-28T00:00:00.000Z",
+    "description": "ADMIRAL INSURANCE",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "ADMIRAL INSURANCE",
+    "amount": -18.1,
+    "currency": "GBP",
+    "transaction_id": "0755bb967ebb8e8ad0902e13114215d1",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd32d",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Gifts & Donations",
+      "Charity"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd324",
+    "timestamp": "2019-01-24T00:00:00.000Z",
+    "description": "MACMILLAN CANCER S",
+    "transaction_type": "CREDIT",
+    "transaction_category": "CREDIT",
+    "merchant_name": "MACMILLAN CANCER SUPPORT",
+    "amount": 1312.86,
+    "currency": "GBP",
+    "transaction_id": "ce0366d9e9bfebf6496cef7e4062b633",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd325",
+      "provider_transaction_category": "CR"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd336",
+    "timestamp": "2019-03-05T00:00:00.000Z",
+    "description": "CONCUR TECHNOLOGIE",
+    "transaction_type": "CREDIT",
+    "transaction_category": "CREDIT",
+    "amount": 56.48,
+    "currency": "GBP",
+    "transaction_id": "93a2f432227b6e43a6f360bdfb071ce7",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd337",
+      "provider_transaction_category": "CR"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd334",
+    "timestamp": "2019-03-07T00:00:00.000Z",
+    "description": "THE PRODUCT THINKT LOAN",
+    "transaction_type": "DEBIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": -7000,
+    "currency": "GBP",
+    "transaction_id": "887720c7123ff9ae5901610066ba072e",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd335",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Bills and Utilities",
+      "Internet"
+    ],
+    "_id": "5cd97a982b2a7c22b74dd332",
+    "timestamp": "2019-03-12T00:00:00.000Z",
+    "description": "VIRGIN MEDIA PYMTS",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "VIRGIN MEDIA",
+    "amount": -49,
+    "currency": "GBP",
+    "transaction_id": "5a10d8e25b166df9abaa92298f8b04d2",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd333",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Bills and Utilities",
+      "Utilities"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd33a",
+    "timestamp": "2019-03-01T00:00:00.000Z",
+    "description": "OCTOPUS ENERGY",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "OCTOPUS ENERGY",
+    "amount": -115.94,
+    "currency": "GBP",
+    "transaction_id": "0146833ed6aafeb44a99d91401a3faa1",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd33b",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a982b2a7c22b74dd32e",
+    "timestamp": "2019-03-24T00:00:00.000Z",
+    "description": "TESCO CLUB 518652 518652******4699",
+    "transaction_type": "DEBIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": -491.44,
+    "currency": "GBP",
+    "transaction_id": "69fdb7a9f04d02a9e63a4ef6050debed",
+    "meta": {
+      "_id": "5cd97a982b2a7c22b74dd32f",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Fees & Charges",
+      "Bank Fee"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd340",
+    "timestamp": "2019-02-19T00:00:00.000Z",
+    "description": "TESCO BANK",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "TESCO BANK",
+    "amount": -24.57,
+    "currency": "GBP",
+    "transaction_id": "264329f2a49bb937942f131b9b9f81d0",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd341",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd33e",
+    "timestamp": "2019-02-23T00:00:00.000Z",
+    "description": "THE PRODUCT FEB DIV",
+    "transaction_type": "CREDIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": 303.02,
+    "currency": "GBP",
+    "transaction_id": "8c1ee5c18c20b7724f2d657b4e159e89",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd33f",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Personal Services",
+      "Financial Services"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd33c",
+    "timestamp": "2019-02-26T00:00:00.000Z",
+    "description": "PAYPAL PAYMENT",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "PAYPAL",
+    "amount": -23.99,
+    "currency": "GBP",
+    "transaction_id": "2452750a013bfddb33efb5910e662c59",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd33d",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Personal Services",
+      "Advisory and Consulting"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd344",
+    "timestamp": "2019-02-11T00:00:00.000Z",
+    "description": "LEEDS CITY COUNCIL",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "LEEDS CITY COUNCIL",
+    "amount": -165,
+    "currency": "GBP",
+    "transaction_id": "674f7c837e9b17d83a2ca99a89f4aa8c",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd345",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Shopping",
+      "Pets"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd348",
+    "timestamp": "2019-02-04T00:00:00.000Z",
+    "description": "M AND S PET INS",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "M AND S",
+    "amount": -39.57,
+    "currency": "GBP",
+    "transaction_id": "1b3562e72c9458e8023c40fd53dc038b",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd349",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Bills and Utilities",
+      "Utilities"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd338",
+    "timestamp": "2019-03-01T00:00:00.000Z",
+    "description": "YORKSHIRE WATER",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "YORKSHIRE WATER",
+    "amount": -40,
+    "currency": "GBP",
+    "transaction_id": "44bb960cc7dc1d49e268b16e17c5f9fa",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd339",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Bills and Utilities",
+      "Utilities"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd34a",
+    "timestamp": "2019-02-01T00:00:00.000Z",
+    "description": "YORKSHIRE WATER",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "YORKSHIRE WATER",
+    "amount": -40,
+    "currency": "GBP",
+    "transaction_id": "1516863a261e33fa5696177d2a01f5ed",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd34b",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Fees & Charges",
+      "Bank Fee"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd34e",
+    "timestamp": "2019-01-25T00:00:00.000Z",
+    "description": "SANTANDERCARDS LTD",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "SANTANDER",
+    "amount": -5,
+    "currency": "GBP",
+    "transaction_id": "9bd4327b82f086534fd8a65fd1cf7ead",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd34f",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd346",
+    "timestamp": "2019-02-06T00:00:00.000Z",
+    "description": "THE PRODUCT FEB DIV",
+    "transaction_type": "CREDIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": 7200,
+    "currency": "GBP",
+    "transaction_id": "41b39fdd4fec5a369b78ab85298e08ea",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd347",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd352",
+    "timestamp": "2019-01-16T00:00:00.000Z",
+    "description": "404760 28758468 INTERNAL TRANSFER",
+    "transaction_type": "DEBIT",
+    "transaction_category": "TRANSFER",
+    "amount": -800,
+    "currency": "GBP",
+    "transaction_id": "dfd1739dbe0f4ba9c4b51d661caeb52a",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd353",
+      "provider_transaction_category": "TFR"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd354",
+    "timestamp": "2019-04-01T00:00:00.000Z",
+    "description": "849597523791-CHB",
+    "transaction_type": "CREDIT",
+    "transaction_category": "CREDIT",
+    "amount": 137.6,
+    "currency": "GBP",
+    "transaction_id": "f96c36d54cc4bf3091866c6e750272b4",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd355",
+      "provider_transaction_category": "CR"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd342",
+    "timestamp": "2019-02-13T00:00:00.000Z",
+    "description": "SANTANDER ZERO MCD 528689******0766",
+    "transaction_type": "DEBIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": -50,
+    "currency": "GBP",
+    "transaction_id": "4f08f45abd898d40cc35b008de95579f",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd343",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd358",
+    "timestamp": "2019-03-22T00:00:00.000Z",
+    "description": "404760 28758468 INTERNAL TRANSFER",
+    "transaction_type": "DEBIT",
+    "transaction_category": "TRANSFER",
+    "amount": -500,
+    "currency": "GBP",
+    "transaction_id": "865194e62af472c0698cb4e5fe4ebdb1",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd359",
+      "provider_transaction_category": "TFR"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd35e",
+    "timestamp": "2019-03-07T00:00:00.000Z",
+    "description": "PIP 4 FOSS",
+    "transaction_type": "DEBIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": -45,
+    "currency": "GBP",
+    "transaction_id": "97b6d68b5332733fc2c57ef3c283a05c",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd35f",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Auto & Transport",
+      "Auto Insurance"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd350",
+    "timestamp": "2019-01-22T00:00:00.000Z",
+    "description": "ADMIRAL INSURANCE",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "ADMIRAL INSURANCE",
+    "amount": -34.34,
+    "currency": "GBP",
+    "transaction_id": "88454c0eaa9d159e34a27b1d4cb1debb",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd351",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd35c",
+    "timestamp": "2019-03-11T00:00:00.000Z",
+    "description": "404760 28758468 INTERNAL TRANSFER",
+    "transaction_type": "DEBIT",
+    "transaction_category": "TRANSFER",
+    "amount": -1000,
+    "currency": "GBP",
+    "transaction_id": "98438c63b6be77b820936c22ca62cf8d",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd35d",
+      "provider_transaction_category": "TFR"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Bills and Utilities",
+      "Television"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd362",
+    "timestamp": "2019-03-01T00:00:00.000Z",
+    "description": "TV LICENCE MBP",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "TV LICENCE MBP",
+    "amount": -12.83,
+    "currency": "GBP",
+    "transaction_id": "73896b914bc19e661119087eff92e29a",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd363",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Bills and Utilities",
+      "Utilities"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd34c",
+    "timestamp": "2019-02-01T00:00:00.000Z",
+    "description": "OCTOPUS ENERGY",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "OCTOPUS ENERGY",
+    "amount": -115.94,
+    "currency": "GBP",
+    "transaction_id": "0499270fb794cf0ef72e0b02998914ad",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd34d",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd366",
+    "timestamp": "2019-02-23T00:00:00.000Z",
+    "description": "SANTANDER ZERO MCD 528689******0766",
+    "transaction_type": "DEBIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": -16.55,
+    "currency": "GBP",
+    "transaction_id": "ded467cbc9890c521e9c8145e714b849",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd367",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Personal Services",
+      "Financial Services"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd35a",
+    "timestamp": "2019-03-18T00:00:00.000Z",
+    "description": "PAYPAL PAYMENT",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "PAYPAL",
+    "amount": -162,
+    "currency": "GBP",
+    "transaction_id": "1f37cec977e53fe292d22deba43908f5",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd35b",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd36c",
+    "timestamp": "2019-02-13T00:00:00.000Z",
+    "description": "404760 28758468 INTERNAL TRANSFER",
+    "transaction_type": "CREDIT",
+    "transaction_category": "TRANSFER",
+    "amount": 9500,
+    "currency": "GBP",
+    "transaction_id": "607a1130c3ba8e099cb2ff58eb855da4",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd36d",
+      "provider_transaction_category": "TFR"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Auto & Transport",
+      "Auto Insurance"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd368",
+    "timestamp": "2019-02-22T00:00:00.000Z",
+    "description": "ADMIRAL INSURANCE",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "ADMIRAL INSURANCE",
+    "amount": -34.34,
+    "currency": "GBP",
+    "transaction_id": "90a657feb06eabf25b2af7e32c41ec67",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd369",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd376",
+    "timestamp": "2019-01-31T00:00:00.000Z",
+    "description": "PIP 4 FOSS",
+    "transaction_type": "DEBIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": -45,
+    "currency": "GBP",
+    "transaction_id": "adc1c362941f26ebfe49bf6243e5ec52",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd377",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd356",
+    "timestamp": "2019-03-27T00:00:00.000Z",
+    "description": "404760 28758468 INTERNAL TRANSFER",
+    "transaction_type": "DEBIT",
+    "transaction_category": "TRANSFER",
+    "amount": -1000,
+    "currency": "GBP",
+    "transaction_id": "98c6e6d5733499bef179dd0d4a13e564",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd357",
+      "provider_transaction_category": "TFR"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd372",
+    "timestamp": "2019-02-04T00:00:00.000Z",
+    "description": "849597523771-CHB",
+    "transaction_type": "CREDIT",
+    "transaction_category": "CREDIT",
+    "amount": 137.6,
+    "currency": "GBP",
+    "transaction_id": "124a8598c8457be1c9e181a63ea1cf60",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd373",
+      "provider_transaction_category": "CR"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd370",
+    "timestamp": "2019-02-05T00:00:00.000Z",
+    "description": "WHITELEY PANDH TO SAVINGS",
+    "transaction_type": "DEBIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": -3967.2,
+    "currency": "GBP",
+    "transaction_id": "731284a62dca36a94ac6b3cb6a995bcc",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd371",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd37c",
+    "timestamp": "2019-01-16T00:00:00.000Z",
+    "description": "THE PRODUCT JAN SAL",
+    "transaction_type": "CREDIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": 817.23,
+    "currency": "GBP",
+    "transaction_id": "ba94b667341468f19d54030a1837f3f8",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd37d",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd364",
+    "timestamp": "2019-02-28T00:00:00.000Z",
+    "description": "404760 28758468 INTERNAL TRANSFER",
+    "transaction_type": "DEBIT",
+    "transaction_category": "TRANSFER",
+    "amount": -700,
+    "currency": "GBP",
+    "transaction_id": "2776be56ac6a14fecc93d47a8799a67b",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd365",
+      "provider_transaction_category": "TFR"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd380",
+    "timestamp": "2019-03-27T00:00:00.000Z",
+    "description": "IISL CLIENT GBP SE CASHBACK NOV 18",
+    "transaction_type": "CREDIT",
+    "transaction_category": "CREDIT",
+    "amount": 100,
+    "currency": "GBP",
+    "transaction_id": "cde6f4bf747ef74a96d01c913b653ff6",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd381",
+      "provider_transaction_category": "CR"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Personal Services",
+      "Advisory and Consulting"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd386",
+    "timestamp": "2019-03-11T00:00:00.000Z",
+    "description": "LEEDS CITY COUNCIL",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "LEEDS CITY COUNCIL",
+    "amount": -165,
+    "currency": "GBP",
+    "transaction_id": "2a14ec2f553e78d6ce278bd17c3b9911",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd387",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Fees & Charges",
+      "Bank Fee"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd37a",
+    "timestamp": "2019-01-21T00:00:00.000Z",
+    "description": "TESCO BANK",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "TESCO BANK",
+    "amount": -25,
+    "currency": "GBP",
+    "transaction_id": "92dc776b9eecb18894accece49923c6b",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd37b",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd360",
+    "timestamp": "2019-03-04T00:00:00.000Z",
+    "description": "THE PRODUCT FEBMAR EX",
+    "transaction_type": "CREDIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": 331.44,
+    "currency": "GBP",
+    "transaction_id": "03725d2d1fb658befab447f0777557b6",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd361",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Personal Services",
+      "Financial Services"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd38a",
+    "timestamp": "2019-03-04T00:00:00.000Z",
+    "description": "PAYPAL PAYMENT",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "PAYPAL",
+    "amount": -5.99,
+    "currency": "GBP",
+    "transaction_id": "a01d460be91fbe26f6a9092ee4eb868f",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd38b",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd36e",
+    "timestamp": "2019-02-07T00:00:00.000Z",
+    "description": "PIP 4 FOSS",
+    "transaction_type": "DEBIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": -45,
+    "currency": "GBP",
+    "transaction_id": "5f0d7127308d7269bd8bddd47a020a1a",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd36f",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Personal Services",
+      "Financial Services"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd384",
+    "timestamp": "2019-03-15T00:00:00.000Z",
+    "description": "PAYPAL PAYMENT",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "PAYPAL",
+    "amount": -17.99,
+    "currency": "GBP",
+    "transaction_id": "08aa646ae0e74831ead918f5378888b6",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd385",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd390",
+    "timestamp": "2019-02-23T00:00:00.000Z",
+    "description": "HSBC BNK VSA454638 454638******5287",
+    "transaction_type": "DEBIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": -9.99,
+    "currency": "GBP",
+    "transaction_id": "4a3d90135cbe5a3e85655854698062c1",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd391",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd38e",
+    "timestamp": "2019-02-28T00:00:00.000Z",
+    "description": "THE PRODUCT MARCH SAL",
+    "transaction_type": "CREDIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": 702,
+    "currency": "GBP",
+    "transaction_id": "a236b64226eff56f2db5a1efd13a23fa",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd38f",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd36a",
+    "timestamp": "2019-02-18T00:00:00.000Z",
+    "description": "404760 28758468 INTERNAL TRANSFER",
+    "transaction_type": "DEBIT",
+    "transaction_category": "TRANSFER",
+    "amount": -1000,
+    "currency": "GBP",
+    "transaction_id": "ee83495859a640b213cfa5c6e4b8d59b",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd36b",
+      "provider_transaction_category": "TFR"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd394",
+    "timestamp": "2019-02-15T00:00:00.000Z",
+    "description": "CONCUR TECHNOLOGIE",
+    "transaction_type": "CREDIT",
+    "transaction_category": "CREDIT",
+    "amount": 72.76,
+    "currency": "GBP",
+    "transaction_id": "86293b36ba8df8efcd6a29574d527b2b",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd395",
+      "provider_transaction_category": "CR"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd398",
+    "timestamp": "2019-02-07T00:00:00.000Z",
+    "description": "HLAM REGULAR SAVIN",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "amount": -70,
+    "currency": "GBP",
+    "transaction_id": "c15fabeb046c692869ce0c874dddb2c0",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd399",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd378",
+    "timestamp": "2019-01-24T00:00:00.000Z",
+    "description": "PIP 4 FOSS",
+    "transaction_type": "DEBIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": -45,
+    "currency": "GBP",
+    "transaction_id": "954d7bd433c9a93d2475686434f5c867",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd379",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd39a",
+    "timestamp": "2019-02-05T00:00:00.000Z",
+    "description": "THE PRODUCT FEB DIV",
+    "transaction_type": "CREDIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": 10000,
+    "currency": "GBP",
+    "transaction_id": "006f4217d64d059aa27f4f1e6badc850",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd39b",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Bills and Utilities",
+      "Television"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd374",
+    "timestamp": "2019-02-01T00:00:00.000Z",
+    "description": "TV LICENCE MBP",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "TV LICENCE MBP",
+    "amount": -12.85,
+    "currency": "GBP",
+    "transaction_id": "c424a60a8d1f316ec3857c06986517fe",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd375",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Personal Services",
+      "Financial Services"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd39e",
+    "timestamp": "2019-02-01T00:00:00.000Z",
+    "description": "HALIFAX",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "HALIFAX",
+    "amount": -892.61,
+    "currency": "GBP",
+    "transaction_id": "056372eac8878df76215822ca9c5ec26",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd39f",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Fees & Charges",
+      "Bank Fee"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd382",
+    "timestamp": "2019-03-22T00:00:00.000Z",
+    "description": "TESCO BANK",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "TESCO BANK",
+    "amount": -25,
+    "currency": "GBP",
+    "transaction_id": "ec7a5b6346727aee80f4a1445d7984ed",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd383",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Personal Services",
+      "Financial Services"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd3a4",
+    "timestamp": "2019-01-21T00:00:00.000Z",
+    "description": "PAYPAL PAYMENT",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "PAYPAL",
+    "amount": -14.99,
+    "currency": "GBP",
+    "transaction_id": "d35cb9f3df0e95692616e50f6483753b",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd3a5",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Personal Services",
+      "Financial Services"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd3a2",
+    "timestamp": "2019-01-24T00:00:00.000Z",
+    "description": "PAYPAL PAYMENT",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "PAYPAL",
+    "amount": -23.99,
+    "currency": "GBP",
+    "transaction_id": "99fdc878ef88c8fe4ebb5ba2b9729b79",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd3a3",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Bills and Utilities",
+      "Utilities"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd37e",
+    "timestamp": "2019-04-01T00:00:00.000Z",
+    "description": "OCTOPUS ENERGY",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "OCTOPUS ENERGY",
+    "amount": -115.94,
+    "currency": "GBP",
+    "transaction_id": "243e8790e93d2acffe1a070e4067cb5f",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd37f",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Pensions and insurances",
+      "Life insurance"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd3a8",
+    "timestamp": "2019-04-01T00:00:00.000Z",
+    "description": "AVIVA LIFE",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "AVIVA",
+    "amount": -117.13,
+    "currency": "GBP",
+    "transaction_id": "a2731d061d7cd346bd8d9c03d00d6d9a",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd3a9",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Personal Services",
+      "Financial Services"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd38c",
+    "timestamp": "2019-03-01T00:00:00.000Z",
+    "description": "HALIFAX",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "HALIFAX",
+    "amount": -892.61,
+    "currency": "GBP",
+    "transaction_id": "076dd989193e85b2d2a128de620706f9",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd38d",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd3ac",
+    "timestamp": "2019-03-24T00:00:00.000Z",
+    "description": "HSBC BNK VSA454638 454638******5287",
+    "transaction_type": "DEBIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": -513.39,
+    "currency": "GBP",
+    "transaction_id": "1e5b69d185158e9789c9750750e036cc",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd3ad",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Gifts & Donations",
+      "Charity"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd3ae",
+    "timestamp": "2019-03-22T00:00:00.000Z",
+    "description": "MACMILLAN CANCER S",
+    "transaction_type": "CREDIT",
+    "transaction_category": "CREDIT",
+    "merchant_name": "MACMILLAN CANCER SUPPORT",
+    "amount": 1312.86,
+    "currency": "GBP",
+    "transaction_id": "8ae551645276624bc01895ea8a8e7c24",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd3af",
+      "provider_transaction_category": "CR"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd388",
+    "timestamp": "2019-03-07T00:00:00.000Z",
+    "description": "HLAM REGULAR SAVIN",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "amount": -70,
+    "currency": "GBP",
+    "transaction_id": "98ddeb9b15a44800cf5cbd774082462d",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd389",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Personal Services",
+      "Financial Services"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd396",
+    "timestamp": "2019-02-13T00:00:00.000Z",
+    "description": "PAYPAL PAYMENT",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "PAYPAL",
+    "amount": -7.22,
+    "currency": "GBP",
+    "transaction_id": "5139097879cd137d59e5a65e25507736",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd397",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd3b2",
+    "timestamp": "2019-03-07T00:00:00.000Z",
+    "description": "THE PRODUCT LOAN REP AND TAKE",
+    "transaction_type": "CREDIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": 7000,
+    "currency": "GBP",
+    "transaction_id": "8b0c8b048c8d747608e946d5ca202e48",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd3b3",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Gifts & Donations",
+      "Charity"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd392",
+    "timestamp": "2019-02-22T00:00:00.000Z",
+    "description": "MACMILLAN CANCER S",
+    "transaction_type": "CREDIT",
+    "transaction_category": "CREDIT",
+    "merchant_name": "MACMILLAN CANCER SUPPORT",
+    "amount": 1312.86,
+    "currency": "GBP",
+    "transaction_id": "ad15b331291bcef0840312f27d23606f",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd393",
+      "provider_transaction_category": "CR"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Pensions and insurances",
+      "Life insurance"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd3b8",
+    "timestamp": "2019-03-01T00:00:00.000Z",
+    "description": "AVIVA LIFE",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "AVIVA",
+    "amount": -117.13,
+    "currency": "GBP",
+    "transaction_id": "2251262d3d2dc2090c65d729a5a8e422",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd3b9",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Personal Services",
+      "Financial Services"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd3a0",
+    "timestamp": "2019-01-30T00:00:00.000Z",
+    "description": "PAYPAL PAYMENT",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "PAYPAL",
+    "amount": -5.99,
+    "currency": "GBP",
+    "transaction_id": "c07fcfd5c26ed16d59b623914a6c07dc",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd3a1",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd3b6",
+    "timestamp": "2019-03-04T00:00:00.000Z",
+    "description": "849597523781-CHB",
+    "transaction_type": "CREDIT",
+    "transaction_category": "CREDIT",
+    "amount": 137.6,
+    "currency": "GBP",
+    "transaction_id": "617c3a6288a0f6b79b6d5a80f7ee00d1",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd3b7",
+      "provider_transaction_category": "CR"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd39c",
+    "timestamp": "2019-02-02T00:00:00.000Z",
+    "description": "404760 28758468 INTERNAL TRANSFER",
+    "transaction_type": "DEBIT",
+    "transaction_category": "TRANSFER",
+    "amount": -607.25,
+    "currency": "GBP",
+    "transaction_id": "19a4429c394aa11175c064621993ecfb",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd39d",
+      "provider_transaction_category": "TFR"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd3aa",
+    "timestamp": "2019-03-28T00:00:00.000Z",
+    "description": "WHITELEY HANDP TRANSFER",
+    "transaction_type": "CREDIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": 5600,
+    "currency": "GBP",
+    "transaction_id": "f7331b9437ffc400e551730a55915d29",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd3ab",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd3bc",
+    "timestamp": "2019-02-23T00:00:00.000Z",
+    "description": "404760 28758468 INTERNAL TRANSFER",
+    "transaction_type": "DEBIT",
+    "transaction_category": "TRANSFER",
+    "amount": -300,
+    "currency": "GBP",
+    "transaction_id": "0b75b1c41ab63fcc81aad7ca4e21a373",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd3bd",
+      "provider_transaction_category": "TFR"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd3c0",
+    "timestamp": "2019-02-13T00:00:00.000Z",
+    "description": "HSBC BNK VSA454638 454638******5287",
+    "transaction_type": "DEBIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": -14.29,
+    "currency": "GBP",
+    "transaction_id": "b41cf99a6b75cd06c36df9fb7380c3d4",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd3c1",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd3c6",
+    "timestamp": "2019-02-05T00:00:00.000Z",
+    "description": "THE PRODUCT FEB EXP",
+    "transaction_type": "CREDIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": 120.75,
+    "currency": "GBP",
+    "transaction_id": "ac70f1f18eb73146c10220be7a1756ff",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd3c7",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd3a6",
+    "timestamp": "2019-01-16T00:00:00.000Z",
+    "description": "CONCUR TECHNOLOGIE",
+    "transaction_type": "CREDIT",
+    "transaction_category": "CREDIT",
+    "amount": 11.28,
+    "currency": "GBP",
+    "transaction_id": "84f6103b5023ee5a3db9e737b78198bd",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd3a7",
+      "provider_transaction_category": "CR"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Pensions and insurances",
+      "Life insurance"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd3ca",
+    "timestamp": "2019-02-01T00:00:00.000Z",
+    "description": "AVIVA LIFE",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "AVIVA",
+    "amount": -117.13,
+    "currency": "GBP",
+    "transaction_id": "2b7f0c209beaffbe43bffc29ef6ee034",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd3cb",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Personal Services",
+      "Financial Services"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd3b4",
+    "timestamp": "2019-03-06T00:00:00.000Z",
+    "description": "PAYPAL PAYMENT",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "PAYPAL",
+    "amount": -17.99,
+    "currency": "GBP",
+    "transaction_id": "089b733da25688fcb8458743a788452e",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd3b5",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd3c2",
+    "timestamp": "2019-02-11T00:00:00.000Z",
+    "description": "404760 28758468 INTERNAL TRANSFER",
+    "transaction_type": "DEBIT",
+    "transaction_category": "TRANSFER",
+    "amount": -10000,
+    "currency": "GBP",
+    "transaction_id": "f01c349f4a443faa1425de30429b9c1b",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd3c3",
+      "provider_transaction_category": "TFR"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd3d0",
+    "timestamp": "2019-01-17T00:00:00.000Z",
+    "description": "PIP 4 FOSS",
+    "transaction_type": "DEBIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": -45,
+    "currency": "GBP",
+    "transaction_id": "79430bf685aec593809515915e6b583d",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd3d1",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd3b0",
+    "timestamp": "2019-03-13T00:00:00.000Z",
+    "description": "PIP 4 FOSS",
+    "transaction_type": "DEBIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": -45,
+    "currency": "GBP",
+    "transaction_id": "0a331bf80973aff8c7881c706a069b64",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd3b1",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Personal Services",
+      "Financial Services"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd3be",
+    "timestamp": "2019-02-20T00:00:00.000Z",
+    "description": "PAYPAL PAYMENT",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "PAYPAL",
+    "amount": -14.99,
+    "currency": "GBP",
+    "transaction_id": "604e787e725b0ac40011c880c879cec4",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd3bf",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd3cc",
+    "timestamp": "2019-01-26T00:00:00.000Z",
+    "description": "INTEREST TO 04JAN2019",
+    "transaction_type": "DEBIT",
+    "transaction_category": "INTEREST",
+    "amount": -0.11,
+    "currency": "GBP",
+    "transaction_id": "84647b09535b4394a3124d1529f21291",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd3cd",
+      "provider_transaction_category": "INT"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd3ba",
+    "timestamp": "2019-02-26T00:00:00.000Z",
+    "description": "404760 28758468 INTERNAL TRANSFER",
+    "transaction_type": "DEBIT",
+    "transaction_category": "TRANSFER",
+    "amount": -1000,
+    "currency": "GBP",
+    "transaction_id": "999d8faf5a8b93f4f926bf8eb2adcb47",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd3bb",
+      "provider_transaction_category": "TFR"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd3c8",
+    "timestamp": "2019-02-01T00:00:00.000Z",
+    "description": "404760 28758468 INTERNAL TRANSFER",
+    "transaction_type": "DEBIT",
+    "transaction_category": "TRANSFER",
+    "amount": -50,
+    "currency": "GBP",
+    "transaction_id": "23497000a5a28afdcd3a5ec809295325",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd3c9",
+      "provider_transaction_category": "TFR"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [],
+    "_id": "5cd97a992b2a7c22b74dd3c4",
+    "timestamp": "2019-02-06T00:00:00.000Z",
+    "description": "THE PRODUCT FEB DIV",
+    "transaction_type": "CREDIT",
+    "transaction_category": "BILL_PAYMENT",
+    "amount": 2900,
+    "currency": "GBP",
+    "transaction_id": "c807e0f7619e67e34e1adcfe927e64e7",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd3c5",
+      "provider_transaction_category": "BP"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  },
+  {
+    "transaction_classification": [
+      "Personal Services",
+      "Financial Services"
+    ],
+    "_id": "5cd97a992b2a7c22b74dd3ce",
+    "timestamp": "2019-01-23T00:00:00.000Z",
+    "description": "PAYPAL PAYMENT",
+    "transaction_type": "DEBIT",
+    "transaction_category": "DIRECT_DEBIT",
+    "merchant_name": "PAYPAL",
+    "amount": -12,
+    "currency": "GBP",
+    "transaction_id": "f4535144602560e71af08e52b5341d0b",
+    "meta": {
+      "_id": "5cd97a992b2a7c22b74dd3cf",
+      "provider_transaction_category": "DD"
+    },
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "__v": 0
+  }
+]

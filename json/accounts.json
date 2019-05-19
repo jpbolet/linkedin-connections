@@ -1,0 +1,209 @@
+[
+  {
+    "_id": "5cd53d9ffdecbd7009957619",
+    "update_timestamp": "2019-05-10T09:00:15.750Z",
+    "account_id": "d0fed17d9b22bbb1ba9d23d8e23d369c",
+    "account_type": "TRANSACTION",
+    "display_name": "BLACK ACCOUNT",
+    "currency": "GBP",
+    "account_number": {
+      "_id": "5cd54dc9716df001674e28d0",
+      "iban": "GB32NWBK56007038554925",
+      "swift_bic": "NWBKGB2L",
+      "number": "38554925",
+      "sort_code": "56-00-70"
+    },
+    "provider": {
+      "_id": "5cd54dc9716df001674e28d1",
+      "display_name": "Natwest",
+      "provider_id": "natwest",
+      "logo_uri": "https://truelayer-client-logos.s3-eu-west-1.amazonaws.com/banks/banks-icons/natwest-icon.svg"
+    },
+    "info_id": "Mr Jean P Bolet:jeanpierrebolet@hotmail.com",
+    "__v": 0
+  },
+  {
+    "_id": "5cd53d9ffdecbd700995761c",
+    "update_timestamp": "2019-05-10T09:00:15.750Z",
+    "account_id": "a7fa9597c322cc1d40fc2ddc57fdd6b1",
+    "account_type": "SAVINGS",
+    "display_name": "INSTANT SAVER",
+    "currency": "GBP",
+    "account_number": {
+      "_id": "5cd54dc9716df001674e28d2",
+      "iban": "GB89NWBK50423761153389",
+      "swift_bic": "NWBKGB2L",
+      "number": "61153389",
+      "sort_code": "50-42-37"
+    },
+    "provider": {
+      "_id": "5cd54dc9716df001674e28d3",
+      "display_name": "Natwest",
+      "provider_id": "natwest",
+      "logo_uri": "https://truelayer-client-logos.s3-eu-west-1.amazonaws.com/banks/banks-icons/natwest-icon.svg"
+    },
+    "info_id": "Mr Jean P Bolet:jeanpierrebolet@hotmail.com",
+    "__v": 0
+  },
+  {
+    "_id": "5cd53d9ffdecbd700995761f",
+    "update_timestamp": "2019-05-10T09:00:15.750Z",
+    "account_id": "6bfe7079ac40d37609c55d8b7338e40c",
+    "account_type": "SAVINGS",
+    "display_name": "INSTANT SAVER",
+    "currency": "GBP",
+    "account_number": {
+      "_id": "5cd54dc9716df001674e28d4",
+      "iban": "GB94NWBK50423768397356",
+      "swift_bic": "NWBKGB2L",
+      "number": "68397356",
+      "sort_code": "50-42-37"
+    },
+    "provider": {
+      "_id": "5cd54dc9716df001674e28d5",
+      "display_name": "Natwest",
+      "provider_id": "natwest",
+      "logo_uri": "https://truelayer-client-logos.s3-eu-west-1.amazonaws.com/banks/banks-icons/natwest-icon.svg"
+    },
+    "info_id": "Mr Jean P Bolet:jeanpierrebolet@hotmail.com",
+    "__v": 0
+  },
+  {
+    "_id": "5cd53d9ffdecbd7009957622",
+    "update_timestamp": "2019-05-10T09:00:15.750Z",
+    "account_id": "2146a689dbac29624798530fea11371e",
+    "account_type": "SAVINGS",
+    "display_name": "INSTANT SAVER",
+    "currency": "GBP",
+    "account_number": {
+      "_id": "5cd54dc9716df001674e28d6",
+      "iban": "GB57NWBK50423765289463",
+      "swift_bic": "NWBKGB2L",
+      "number": "65289463",
+      "sort_code": "50-42-37"
+    },
+    "provider": {
+      "_id": "5cd54dc9716df001674e28d7",
+      "display_name": "Natwest",
+      "provider_id": "natwest",
+      "logo_uri": "https://truelayer-client-logos.s3-eu-west-1.amazonaws.com/banks/banks-icons/natwest-icon.svg"
+    },
+    "info_id": "Mr Jean P Bolet:jeanpierrebolet@hotmail.com",
+    "__v": 0
+  },
+  {
+    "_id": "5cd54aa3716df001674e15b5",
+    "update_timestamp": "2019-05-10T09:55:47.820Z",
+    "account_id": "92909c7bd8b10a710f59cb1171838cee",
+    "account_type": "TRANSACTION",
+    "display_name": "Joint 1st Account",
+    "currency": "GBP",
+    "account_number": {
+      "_id": "5cd54aa3716df001674e15b6",
+      "iban": "GB16MIDL40476028758468",
+      "swift_bic": "MIDLGB22",
+      "number": "28758468",
+      "sort_code": "40-47-60"
+    },
+    "provider": {
+      "_id": "5cd54aa3716df001674e15b7",
+      "display_name": "First-Direct",
+      "provider_id": "first-direct",
+      "logo_uri": "https://truelayer-client-logos.s3-eu-west-1.amazonaws.com/banks/banks-icons/first-direct-icon.svg"
+    },
+    "info_id": "P C Whiteley:phillip_whiteley@hotmail.com",
+    "__v": 0
+  },
+  {
+    "_id": "5cd54aa3716df001674e15b8",
+    "update_timestamp": "2019-05-10T09:55:47.820Z",
+    "account_id": "32d4e8461108b4b13ba0114bc9e12f2c",
+    "account_type": "TRANSACTION",
+    "display_name": "Joint 1st Account",
+    "currency": "GBP",
+    "account_number": {
+      "_id": "5cd54aa3716df001674e15b9",
+      "iban": "GB73MIDL40476088393818",
+      "swift_bic": "MIDLGB22",
+      "number": "88393818",
+      "sort_code": "40-47-60"
+    },
+    "provider": {
+      "_id": "5cd54aa3716df001674e15ba",
+      "display_name": "First-Direct",
+      "provider_id": "first-direct",
+      "logo_uri": "https://truelayer-client-logos.s3-eu-west-1.amazonaws.com/banks/banks-icons/first-direct-icon.svg"
+    },
+    "info_id": "P C Whiteley:phillip_whiteley@hotmail.com",
+    "__v": 0
+  },
+  {
+    "_id": "5cd54da6716df001674e28ad",
+    "update_timestamp": "2019-05-10T10:08:38.259Z",
+    "account_id": "5568bcfd3edbdf57c96a26ddacad6e74",
+    "account_type": "SAVINGS",
+    "display_name": "INST ACC SAV",
+    "currency": "GBP",
+    "account_number": {
+      "_id": "5cd54da6716df001674e28ae",
+      "iban": "GB29MIDL40222801250426",
+      "swift_bic": "MIDLGB22",
+      "number": "01250426",
+      "sort_code": "40-22-28"
+    },
+    "provider": {
+      "_id": "5cd54da6716df001674e28af",
+      "display_name": "Hsbc",
+      "provider_id": "hsbc",
+      "logo_uri": "https://truelayer-client-logos.s3-eu-west-1.amazonaws.com/banks/banks-icons/hsbc-icon.svg"
+    },
+    "info_id": "Phillip Charles Whiteley Mrs Helen Victoria Whiteley:undefined",
+    "__v": 0
+  },
+  {
+    "_id": "5cd54da6716df001674e28b0",
+    "update_timestamp": "2019-05-10T10:08:38.259Z",
+    "account_id": "e23a53612461a83d163a9f7c1e3ef092",
+    "account_type": "TRANSACTION",
+    "display_name": "BANK A/C",
+    "currency": "GBP",
+    "account_number": {
+      "_id": "5cd54da6716df001674e28b1",
+      "iban": "GB86MIDL40222841212915",
+      "swift_bic": "MIDLGB22",
+      "number": "41212915",
+      "sort_code": "40-22-28"
+    },
+    "provider": {
+      "_id": "5cd54da6716df001674e28b2",
+      "display_name": "Hsbc",
+      "provider_id": "hsbc",
+      "logo_uri": "https://truelayer-client-logos.s3-eu-west-1.amazonaws.com/banks/banks-icons/hsbc-icon.svg"
+    },
+    "info_id": "Phillip Charles Whiteley Mrs Helen Victoria Whiteley:undefined",
+    "__v": 0
+  },
+  {
+    "_id": "5cd54da6716df001674e28b3",
+    "update_timestamp": "2019-05-10T10:08:38.259Z",
+    "account_id": "33ff698f9da5eff570310b1e2ecf65e8",
+    "account_type": "SAVINGS",
+    "display_name": "FLEX SAVER",
+    "currency": "GBP",
+    "account_number": {
+      "_id": "5cd54da6716df001674e28b4",
+      "iban": "GB35MIDL40222871226215",
+      "swift_bic": "MIDLGB22",
+      "number": "71226215",
+      "sort_code": "40-22-28"
+    },
+    "provider": {
+      "_id": "5cd54da6716df001674e28b5",
+      "display_name": "Hsbc",
+      "provider_id": "hsbc",
+      "logo_uri": "https://truelayer-client-logos.s3-eu-west-1.amazonaws.com/banks/banks-icons/hsbc-icon.svg"
+    },
+    "info_id": "Phillip Charles Whiteley Mrs Helen Victoria Whiteley:undefined",
+    "__v": 0
+  }
+]
