@@ -15,7 +15,7 @@
     "node-linkedin": "^0.5.6",
     "node-linkedin-v2": "0.0.7",
     "path": "^0.12.7",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "react": "^16.8.6",
     "react-router-dom": "^5.0.0"
   },
